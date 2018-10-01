@@ -1058,10 +1058,10 @@
     "@types/connect" "*"
     "@types/node" "*"
 
-"@types/browserify@12.0.33":
-  version "12.0.33"
-  resolved "https://registry.yarnpkg.com/@types/browserify/-/browserify-12.0.33.tgz#e61971c0f985bf1f7709048326493f10b0dd78bd"
-  integrity sha512-mY6dYfq1Ns3Xqz/JFUcyoWaXtm0XDoNhkU1vCwM/ULM5zqNL+SbtacJhce/JCgPeCdbqdVqq77tJ4HwdtypSxg==
+"@types/browserify@12.0.34":
+  version "12.0.34"
+  resolved "https://registry.yarnpkg.com/@types/browserify/-/browserify-12.0.34.tgz#6320dce5c76020c60f4be94e802f90c2a4733123"
+  integrity sha512-F5oi2K08sPMXAvK1sELM9t/6Cm2aKVa/xbckynqeVpVdIW9k1x2LtkcYg72ExAes67Nyjk5DBOuc/X+6D8yyaA==
   dependencies:
     "@types/insert-module-globals" "*"
     "@types/node" "*"
