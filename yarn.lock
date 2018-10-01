@@ -1432,10 +1432,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/puppeteer@1.6.3":
-  version "1.6.3"
-  resolved "https://registry.yarnpkg.com/@types/puppeteer/-/puppeteer-1.6.3.tgz#13b4a70ae9997b7f6b6c9d6771d2aa34c710b809"
-  integrity sha512-LckvRjv9yE47H3zg1w8zaA0sxtW7EAxVGz2RsPMIZkTtVfl8M8/8o1GvD6xXEH1H5JrbAUjL37EhRMFi4Oe+Zg==
+"@types/puppeteer@1.6.4":
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/@types/puppeteer/-/puppeteer-1.6.4.tgz#c3b27b72241c782053f21e3996edad561e31db9a"
+  integrity sha512-oYHF5x9kJk3oA2zH5KmaRWlyitdVyqBixd5Dl/rsONNWwovLkSl6NzJHWGX586uR4QujT/Vtr/jsEcDUNrYO7g==
   dependencies:
     "@types/events" "*"
     "@types/node" "*"
